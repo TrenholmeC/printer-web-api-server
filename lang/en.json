@@ -1,0 +1,17 @@
+{
+    "script": {
+        "single-color-text": {
+            "name": "Single Color Text",
+            "desc": "Prints plain text in a single color."
+        }
+    },
+    "sys": {
+        "form": {
+            "_key": "Key",
+            "text": "Text",
+            "red": "Red",
+            "greed": "Green",
+            "blue": "Blue"
+        }
+    }
+}

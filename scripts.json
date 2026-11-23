@@ -1,0 +1,22 @@
+{
+    "single-color-text": {
+        "text": {
+            "type": "text"
+        },
+        "red": {
+            "type": "integer",
+            "min": 0,
+            "max": 255
+        },
+        "green": {
+            "type": "integer",
+            "min": 0,
+            "max": 255
+        },
+        "blue": {
+            "type": "integer",
+            "min": 0,
+            "max": 255
+        }
+    }
+}

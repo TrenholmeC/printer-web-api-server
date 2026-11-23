@@ -1,0 +1,10 @@
+{
+    "<user-key>": {
+        "name": "my-user",
+        "type": "user"
+    },
+    "<printer-key>": {
+        "name": "my-printer",
+        "type": "printer"
+    }
+}
